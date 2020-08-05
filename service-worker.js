@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DominoCounter/precache-manifest.d12f8fe9955b8b6bdd267b34e07bea6d.js"
+  "/DominoCounter/precache-manifest.ce959424a46ef11de41021fb21a7030f.js"
 );
 
 self.addEventListener('message', (event) => {
