@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DominoCounter/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/DominoCounter/static/js/main.351b40f3.chunk.js",
-    "main.js.map": "/DominoCounter/static/js/main.351b40f3.chunk.js.map",
+    "main.js": "/DominoCounter/static/js/main.af9ad637.chunk.js",
+    "main.js.map": "/DominoCounter/static/js/main.af9ad637.chunk.js.map",
     "runtime-main.js": "/DominoCounter/static/js/runtime-main.f69411ab.js",
     "runtime-main.js.map": "/DominoCounter/static/js/runtime-main.f69411ab.js.map",
     "static/css/2.0939e70c.chunk.css": "/DominoCounter/static/css/2.0939e70c.chunk.css",
     "static/js/2.fba4fa59.chunk.js": "/DominoCounter/static/js/2.fba4fa59.chunk.js",
     "static/js/2.fba4fa59.chunk.js.map": "/DominoCounter/static/js/2.fba4fa59.chunk.js.map",
     "index.html": "/DominoCounter/index.html",
-    "precache-manifest.4d30e1e7103d82b9bbca9ff80c139c35.js": "/DominoCounter/precache-manifest.4d30e1e7103d82b9bbca9ff80c139c35.js",
+    "precache-manifest.d7cf187c828b2d8c5421ab513d5397ce.js": "/DominoCounter/precache-manifest.d7cf187c828b2d8c5421ab513d5397ce.js",
     "service-worker.js": "/DominoCounter/service-worker.js",
     "static/css/2.0939e70c.chunk.css.map": "/DominoCounter/static/css/2.0939e70c.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/DominoCounter/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.0939e70c.chunk.css",
     "static/js/2.fba4fa59.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.351b40f3.chunk.js"
+    "static/js/main.af9ad637.chunk.js"
   ]
 }
