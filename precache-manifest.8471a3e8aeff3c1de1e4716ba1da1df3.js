@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f583292227779a8cfaf638965f657ea1",
+    "revision": "c376add11a29a6f64ad2eee03cccafd6",
     "url": "/DominoCounter/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DominoCounter/static/css/2.0939e70c.chunk.css"
   },
   {
-    "revision": "872bb82bba85d4a3d51c",
+    "revision": "f6a9289bc99af5935d88",
     "url": "/DominoCounter/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DominoCounter/static/js/2.fba4fa59.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "872bb82bba85d4a3d51c",
-    "url": "/DominoCounter/static/js/main.855fe877.chunk.js"
+    "revision": "f6a9289bc99af5935d88",
+    "url": "/DominoCounter/static/js/main.bfef1a80.chunk.js"
   },
   {
     "revision": "a216e8e1998058261835",
